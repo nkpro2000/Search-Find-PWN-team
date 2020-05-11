@@ -7,6 +7,7 @@
 * [justCTF](2019-12-21-justCTF)
 
 ## 2020
+* [SpamAndFlags](2020-05-08-SpamAndFlags)
 
 
 <div align="center">
