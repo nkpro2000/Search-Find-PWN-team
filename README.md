@@ -9,6 +9,7 @@
 ## 2020
 * [SpamAndFlags](2020-05-08-SpamAndFlags)
 * [SharkyCTF](2020-05-09-SharkyCTF)
+* [DEF CON CTF Qualifier](2020-05-16-DEF-CON-CTF-Qualifier)
 
 
 <div align="center">

@@ -28,7 +28,10 @@ for i in range(len(C)):
                 solved = True
                 break
     Q = N[i] // P
-    phi = (P-1)*(Q-1)
+    assert U.isPrime(P) and U.isPrime(Q) and P!=Q, "Not valid P & Q"
+    phi = (P-1)*(Q-1) #] phi(n) [Euler totient function](https://en.wikipedia.org/wiki/Euler%27s_totient_function)
+    assert U.GCD(e[i],phi) == 1, "Wrong exponent (e)"
+    assert 3 <= e[i] < phi, "e not in range [3,ϕ(n))"
     d = U.inverse(e[i],phi)
     M = pow(C[i],d,N[i])
     print (':)',U.long_to_bytes(M))
