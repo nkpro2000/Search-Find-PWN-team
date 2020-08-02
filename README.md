@@ -11,6 +11,7 @@
 * [SharkyCTF](2020-05-09-SharkyCTF)
 * [DEF CON CTF Qualifier](2020-05-16-DEF-CON-CTF-Qualifier)
 * [castorsCTF20](2020-05-30-castorsCTF20)
+* [InCTF](2020-07-31-InCTF)
 
 
 <div align="center">
